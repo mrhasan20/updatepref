@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'30', 'ver4':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://www.sirimods.com/2019/01/siwhatsapp.html'}
+{'ver1':'8', 'ver2':'30', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://www.sirimods.com/2019/01/siwhatsapp.html'}
