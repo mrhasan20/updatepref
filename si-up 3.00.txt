@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'30', 'ver3':'\n تحديث جديد نسخة سيري واتساب \n', 'dli':'https://www.sirimods.com/2019/01/siwhatsapp.html'}
+{'ver1':'8', 'ver2':'30', 'ver3':'\n تحديث جديد نسخة سيري واتساب \n', 'dli':'https://www.sirimods.com/2019/01/siwhatsapp.html'}
